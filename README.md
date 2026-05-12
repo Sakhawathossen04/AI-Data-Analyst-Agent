@@ -152,7 +152,7 @@ AI-Data-Analyst-Agent/
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/AI-Data-Analyst-Agent.git
+git clone https://github.com/Sakhawathossen04/AI-Data-Analyst-Agent.git
 
 cd AI-Data-Analyst-Agent
 ```
