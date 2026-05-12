@@ -52,25 +52,25 @@ User Question
 └──────────────────┘
       │
       ▼
-📊 Final Insights
+Final Insights
 ```
 
 ---
 
-# ✨ Features
+#  Features
 
-## 📂 CSV Upload Support
+##  CSV Upload Support
 
 * Upload any structured CSV dataset
 * Auto-detect numeric and date columns
 * Preview data instantly
 
-## 🤖 AI Planning Agent
+##  AI Planning Agent
 
 * Converts natural language questions into structured JSON analysis plans
 * Uses reasoning-based planning with DeepSeek R1
 
-## ⚙️ Automated Data Analysis
+##  Automated Data Analysis
 
 Supports:
 
@@ -80,7 +80,7 @@ Supports:
 * Comparisons
 * Statistical summaries
 
-## 📈 Smart Visualization
+##  Smart Visualization
 
 Automatically generates:
 
@@ -88,7 +88,7 @@ Automatically generates:
 * Line Charts
 * Pie Charts
 
-## 💡 AI Insight Generation
+##  AI Insight Generation
 
 The Explainer Agent:
 
@@ -97,7 +97,7 @@ The Explainer Agent:
 * Provides business recommendations
 * Explains results in simple language
 
-## 🧠 Reasoning Transparency
+##  Reasoning Transparency
 
 * Shows AI reasoning process
 * Displays generated analysis plan
@@ -105,7 +105,7 @@ The Explainer Agent:
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 | Technology        | Purpose                         |
 | ----------------- | ------------------------------- |
@@ -120,7 +120,7 @@ The Explainer Agent:
 
 ---
 
-# 📁 Project Structure
+#  Project Structure
 
 ```bash
 AI-Data-Analyst-Agent/
@@ -147,7 +147,7 @@ AI-Data-Analyst-Agent/
 
 ---
 
-# ⚡ Installation
+#  Installation
 
 ## 1️⃣ Clone the Repository
 
@@ -215,7 +215,7 @@ http://localhost:8501
 
 ---
 
-# 📊 Example Questions
+#  Example Questions
 
 You can ask questions like:
 
@@ -233,7 +233,7 @@ Compare sales between 2022 and 2023.
 
 ---
 
-# 🧩 How It Works
+#  How It Works
 
 ## Step 1 — Dataset Understanding
 
@@ -293,7 +293,7 @@ The Explainer Agent:
 
 ---
 
-# 🔥 Key Highlights
+#  Key Highlights
 
 * ✅ Multi-Agent AI Workflow
 * ✅ Reasoning-Based Planning
@@ -308,9 +308,9 @@ The Explainer Agent:
 
 ---
 
-# 📸 Screenshots
+#  Screenshots
 
-## 🏠 Dashboard UI
+##  Dashboard UI
 
 ![Image](https://images.openai.com/static-rsc-4/rS-29oUpBmt7uFMuO_4aVJ6SEmAkwTkIGNvJYd12zTZ95SVsoved0GLGcmxM72WaDTx8644AM4StHLeYtaV3J1mo32uLyVBVkzX5v8H2buafSgTMuHshG_wH_k4vDYLFJXcF-C8ueSninTpH9XMi2TttC7nT6z5Asv3j-NMnLI9r1cvHVgyLGRFAj7OxVPy1?purpose=fullsize)
 
@@ -328,32 +328,25 @@ The Explainer Agent:
 
 ![Image](https://images.openai.com/static-rsc-4/q78FPCeXEC7SBBgByiRjfJaep6W0jMODdqIjBf4ePrwkpELbGjYQFMYXrxmsvnfNscJ-Mm_QZ0K2BQ8zaabQQ_7g4Q7Wno1QKOCpqX-gF_E1aUSB2Dt-q69RJSVA6SHYkRtoLPj-Tht6WRGtn4kojBL-jcUPbKvjR2hUnOr9FEpYMDPOFOuOrx0BB98PFgiw?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/pQbkizoTJq5jttqvS4ZXSjCD5i0brwm_rEJY-ANd86RYVbFEBJD0BPfDAueX1uUVLNDALSQt0cW9Rrc-F-JSsRXXVXQNowX8k3PyObNvT4mLAZhK_d0fqEwJ-S54ZqEoUXmBUhO-4paOrfsj6UrO9mhf7v3SUk8T6VlBnN_3Cje6zVZS_Tt2u1EMnq2EzAws?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/1X1wpEm1a0PEX_zZl-Lky9Hs0s734JZ0GsTZ_OZEn8CWOaeD8WhGxv692lWavuaAt1hDd4TdBuBKka7kMA6MxXUOq5zMPGwxSwq3yw5IjQbpaVwLGttvhFEiO1ZY7G_uR09l1-5wMAeBk4b5tDp5SHucdRb_Td9HTH0N4KDnZmnJKYkes2gYMX1ZJFQJqDbQ?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/bBHZXspZI0GJSeBqfp9CwP1bY2EDk2kxiXFIqgpecv6UkzBZjcwkKkhZ6RRnBWTENWTyIcMTJRhPFbx5MxKqJC3EffjHD-8e4ONGhsanbVfKH30VXkbAQQwi1PWCkp_7sg6BTZvMWru3P4obahBChDbLfYQc7mksGl02XVygvEpbKJIzg3p4e8OSRw1qmLda?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/LddmwGXN9s_nKi1kQnp7qS5CfAeg02bIwiJcA5-N5k7_Wy1JW70EWozPB_I9KLDuyoSiUe0qkMrkeQhwrhG0yAr_cb2vxNe496ihBxBwCE6XGwnExJ6QgB-wr-W1vz4eTt2GUlR-sJLQyOejTIQ4tecPUN28IOM5UWH5efb-IJo_ihVcCYsg9CPPDTViIUd7?purpose=fullsize)
 
 ---
 
-# 🎯 Future Improvements
+#  Future Improvements
 
-* 🔍 SQL Query Support
-* 📄 PDF Report Generation
-* 🧠 RAG-based Knowledge Integration
-* 📊 Advanced Statistical Analysis
-* 🤖 Autonomous AI Agent Collaboration
-* ☁️ Cloud Deployment
-* 🗣️ Voice-based Query System
-* 📉 Forecasting & Predictive Analytics
-* 🧾 Automated Insight Reports
-* 🧠 Custom Fine-Tuned LLM
+*  SQL Query Support
+*  PDF Report Generation
+*  RAG-based Knowledge Integration
+*  Advanced Statistical Analysis
+*  Autonomous AI Agent Collaboration
+*  Cloud Deployment
+*  Voice-based Query System
+*  Forecasting & Predictive Analytics
+*  Automated Insight Reports
+*  Custom Fine-Tuned LLM
 
 ---
 
-# 🌍 Real-World Use Cases
+#  Real-World Use Cases
 
 * Business Intelligence
 * Sales Analytics
@@ -366,7 +359,7 @@ The Explainer Agent:
 
 ---
 
-# 📚 Learning Objectives
+#  Learning Objectives
 
 This project demonstrates:
 
@@ -381,7 +374,7 @@ This project demonstrates:
 
 ---
 
-# 🤝 Contributing
+#  Contributing
 
 Contributions are welcome!
 
@@ -394,23 +387,23 @@ If you'd like to improve the project:
 
 ---
 
-# 📜 License
+#  License
 
 This project is licensed under the MIT License.
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Sakhwat Hossen**
-ICT Student | Machine Learning & AI Enthusiast
+Machine Learning & AI Enthusiast
 
-* LinkedIn: Add your LinkedIn profile
-* GitHub: Add your GitHub profile
+* LinkedIn: https://www.linkedin.com/in/sakhawathossenofficial/
+* GitHub: https://github.com/Sakhawathossen04
 
 ---
 
-# ⭐ Support
+#  Support
 
 If you found this project helpful:
 
