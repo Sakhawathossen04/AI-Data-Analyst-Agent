@@ -20,7 +20,7 @@ The system can:
 
 ---
 
-## 🧠 Multi-Agent Architecture
+##  Multi-Agent Architecture
 
 The project follows a modular **AI Agent Pipeline**:
 
