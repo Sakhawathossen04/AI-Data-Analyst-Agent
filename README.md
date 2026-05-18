@@ -1,7 +1,7 @@
 # AI Data Analyst Agent
 
 An intelligent multi-agent data analysis system powered by DeepSeek R1 and built with Streamlit.
-Upload any CSV file, ask questions in natural language, and get instant insights, charts, and AI-generated explanations.
+Upload any CSV file, ask questions in natural language, and get instant insights, charts, and AI-generated explanations..
 
 ---
 
